@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../../../../core/constants/app_contants.dart';
+import '../../../../../core/constants/app_constants.dart';
 import 'sliding_text.dart';
 
 class SplashViewBody extends StatefulWidget {
